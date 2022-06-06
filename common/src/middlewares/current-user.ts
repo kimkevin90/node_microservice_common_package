@@ -6,7 +6,6 @@ interface UserPayload {
   email: string;
 }
 
-// express 내부 request에 currentUser 적용
 declare global {
   namespace Express {
     interface Request {
