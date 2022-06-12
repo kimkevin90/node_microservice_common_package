@@ -8,7 +8,6 @@ export interface OrderCancelledEvent {
     version: number;
     ticket: {
       id: string;
-      price: number;
     };
   };
 }
