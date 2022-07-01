@@ -12,3 +12,8 @@
 - npm run pub로 간소화
 - 가져온 공통 패키지 설치
 
+## Event_Bus class 공통 모듈 적용
+## Order-Status Type 생성
+#### 기타
+- Publisher & Listener 수정, child class에 client 적용위한 private -> protected로 전환 
+ 
